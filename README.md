@@ -1,4 +1,5 @@
 # Chroma_Vector_DB
+![image](https://github.com/user-attachments/assets/9bc9008f-4dac-45f5-8d7e-1bfe2d7d3b9f)
 
-https://user-images.githubusercontent.com/891664/227103090-6624bf7d-9524-4e05-9d2c-c28d5d451481.png
+
 
